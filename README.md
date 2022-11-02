@@ -1,9 +1,9 @@
 # Yearly-Calendar
-A program to print the calendar of a given year.
+A java program to print the calendar of a given year on the console.
 
+For example, input 2023 will display the output below.
 <pre>
 
-2023
            JANUARY 2023
 +----+----+----+----+----+----+----+
 |MON |TUE |WED |THU |FRI |SAT |SUN |
